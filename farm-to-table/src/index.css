@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #EDF1D6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  min-width: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: #609966;
+  background-color: #EDF1D6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color:#609966;
+}
+
+.auth-form-container, .login-form, .register-form {
+  display: flex;
+  flex-direction:  column;
+}
+
+@media screen and (min-width: 600px) {
+  .auth-form-container{
+    padding: 5rem;
+    /* border: 1px solid #609966; */
+    border-radius: 10px;
+    margin: 0.5rem;
+  }
+}
+
+label{
+  text-align: left;
+  padding: 0.25rem 0;
+}
+
+input[type=email], input[type=password], input[type=text], input[type=number] {
+  margin: 0.5rem 0;
+  padding: 0.7rem;
+  border: none;
+  border-radius: 20px;
+  border: 3px solid #609966;
+}
+
+button {
+  border: none;
+  padding: 0.4rem;
+  border-radius: 30px;
+  cursor: pointer;
+  margin: 1rem;
+  padding-inline: 20px;
+  font-size: small;
+}
+
+.green {
+  background-color: #609966;
+  color: white;
+  border: 1.5px solid #609966;
+}
+
+.green:hover {
+  border: 1.5px solid #609966;
+  background-color: #EDF1D6;
+  color:#609966;
+}
+
+.flesh {
+  border: 1.5px solid #609966;
+  background-color: #EDF1D6 ;
+  color: #609966;
+  font-weight:600;
+}
+
+.flesh:hover {
+  background-color: #609966;
+  color: white;
+}
+
+.link-btn{
+  background: none;
+  color: #609966;
+  text-decoration: underline;
+}
+
+.link-btn:hover {
+  color: #a1c6a5;
+}
+
+/* items css */
+
+.card-custom {
+  background-color: #EDF1D6;
+  border: 1.5px solid #609966;
+  border-radius: 25px;
+}
+
+.img-custom {
+  border-radius: 25px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+
+/* cart css */
+
+.container .custom {
+  border: 1.5px solid #609966;
+  border-radius: 30px;
+}

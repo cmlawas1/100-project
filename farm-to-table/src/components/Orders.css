@@ -1,0 +1,27 @@
+.disabled-cancel-button {
+    background-color: #C7CDA4;
+    border:1.5px solid #609966;
+}
+
+.disabled-cancel-button:hover {
+    cursor: auto;
+}
+
+.disabled-button {
+    background-color: #609966;
+    color:white;
+    border:1.5px solid white;
+}
+
+.disabled-button:hover {
+    cursor:auto;
+}
+
+.cancelled-container {
+    background-color: #C7CDA4;
+}
+
+.confirmed-container {
+    background-color: #609966;
+    color:white;
+}

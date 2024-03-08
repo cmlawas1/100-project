@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "657fd2d08bd1e7350564c988"
+  },
+  "productID": 1,
+  "productName": "Petchay",
+  "productType": 1,
+  "productPrice": 20,
+  "productQty": 48,
+  "productURL": "https://i.postimg.cc/QxTzHhxh/product-petchay.png"
+},
+{
+  "_id": {
+    "$oid": "657fd2d08bd1e7350564c989"
+  },
+  "productID": 2,
+  "productName": "Broccoli",
+  "productType": 1,
+  "productPrice": 720,
+  "productDesc": "Local homegrown. 1 kilogram for 720 pesos",
+  "productQty": 47,
+  "productURL": "https://i.postimg.cc/76tRTL2Y/product-broccoli.jpg"
+},
+{
+  "_id": {
+    "$oid": "657fd2d08bd1e7350564c98a"
+  },
+  "productID": 3,
+  "productName": "Chicken Tenders",
+  "productType": 2,
+  "productPrice": 370,
+  "productDesc": "Lander's chicken breast strips",
+  "productQty": 37,
+  "productURL": "https://i.postimg.cc/tJ1MdH3d/product-chicken-tenders.jpg"
+},
+{
+  "_id": {
+    "$oid": "657fd2d08bd1e7350564c98b"
+  },
+  "productID": 4,
+  "productName": "Chicken Tenders",
+  "productType": 2,
+  "productPrice": 205,
+  "productDesc": "Bounty Fresh's chicken breast strips",
+  "productQty": 57,
+  "productURL": "https://i.postimg.cc/sxt0w0mk/product-chicken-tenders-02.jpg"
+},
+{
+  "_id": {
+    "$oid": "657fd2d08bd1e7350564c98c"
+  },
+  "productID": 5,
+  "productName": "Spinach",
+  "productType": 1,
+  "productPrice": 116,
+  "productDesc": "Lander's organic spinach approx. 250g",
+  "productQty": 59,
+  "productURL": "https://i.postimg.cc/h4wwDfn2/product-spinach.jpg"
+}]

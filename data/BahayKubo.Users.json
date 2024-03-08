@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6597ddc477ea51ac1d56f9cf"
+  },
+  "firstName": "Myr",
+  "lastName": "Chance",
+  "userType": "merchant",
+  "email": "mer@chant.com",
+  "password": "seller"
+},
+{
+  "_id": {
+    "$oid": "6597edbaf9d31d9f9c3904d5"
+  },
+  "firstName": "hi",
+  "lastName": "hello",
+  "userType": "user",
+  "email": "user@email.com",
+  "password": "nice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65981b33ca157e9ea1f99e28"
+  },
+  "firstName": "hello",
+  "lastName": "hi",
+  "userType": "user",
+  "email": "wow@mali.com",
+  "password": "abcde",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659bab91230ae5568e227164"
+  },
+  "firstName": "user",
+  "lastName": "customer",
+  "userType": "user",
+  "email": "user1234@bahaykubo.com",
+  "password": "1234",
+  "__v": 0
+}]

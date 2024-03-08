@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65991376c959c8a450659e88"
+  },
+  "transactnID": "1",
+  "productID": [
+    3,
+    1
+  ],
+  "orderQty": [
+    1,
+    1
+  ],
+  "orderStatus": 1,
+  "email": "user@email.com",
+  "dateOrdered": {
+    "$date": "2024-01-06T08:46:46.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6599138ec959c8a450659e92"
+  },
+  "transactnID": "2",
+  "productID": [
+    5,
+    4,
+    2
+  ],
+  "orderQty": [
+    3,
+    1,
+    1
+  ],
+  "orderStatus": 2,
+  "email": "wow@mali.com",
+  "dateOrdered": {
+    "$date": "2024-01-06T08:47:10.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659913cdc959c8a450659e9b"
+  },
+  "transactnID": "3",
+  "productID": [
+    5
+  ],
+  "orderQty": [
+    60
+  ],
+  "orderStatus": 0,
+  "email": "wow@mali.com",
+  "dateOrdered": {
+    "$date": "2024-01-06T08:48:13.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659914d84e34c61bf779c632"
+  },
+  "transactnID": "4",
+  "productID": [
+    3
+  ],
+  "orderQty": [
+    1
+  ],
+  "orderStatus": 0,
+  "email": "user@email.com",
+  "dateOrdered": {
+    "$date": "2024-01-06T08:52:40.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659915144e34c61bf779c639"
+  },
+  "transactnID": "5",
+  "productID": [
+    3,
+    4
+  ],
+  "orderQty": [
+    1,
+    1
+  ],
+  "orderStatus": 0,
+  "email": "user@email.com",
+  "dateOrdered": {
+    "$date": "2024-01-06T08:53:40.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ba0fc43f936f0a5cf73cc"
+  },
+  "transactnID": "6",
+  "productID": [
+    5,
+    2
+  ],
+  "orderQty": [
+    1,
+    1
+  ],
+  "orderStatus": 0,
+  "email": "user@email.com",
+  "dateOrdered": {
+    "$date": "2024-01-08T07:15:08.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659babb6230ae5568e22716a"
+  },
+  "transactnID": "7",
+  "productID": [
+    2,
+    3,
+    4
+  ],
+  "orderQty": [
+    1,
+    1,
+    1
+  ],
+  "orderStatus": 0,
+  "email": "user1234@bahaykubo.com",
+  "dateOrdered": {
+    "$date": "2024-01-08T08:00:54.257Z"
+  },
+  "__v": 0
+}]
